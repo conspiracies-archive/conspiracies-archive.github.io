@@ -1,7 +1,7 @@
 # Site Settings
 title: Online Conspiracy Theory Research Archive
 description: Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology
-remote_theme: pages-themes/architect
+remote_theme: pages-themes/minimal
 
 # Collections Configuration
 collections:

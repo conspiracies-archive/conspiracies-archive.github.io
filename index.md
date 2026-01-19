@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
+<style>
+  body { font-family: "Inter", -apple-system, sans-serif; color: #333; line-height: 1.6; }
+  h1, h2, h3 { color: #111; font-weight: 700; }
+  a { color: #0056b3; text-decoration: none; border-bottom: 1px solid transparent; transition: 0.3s; }
+  a:hover { border-bottom: 1px solid #0056b3; }
+  hr { border: 0; border-top: 1px solid #eee; margin: 40px 0; }
+  li { margin-bottom: 10px; }
+</style>
+
 # Online Conspiracy Theory Research Archive
 *Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology.*
 
