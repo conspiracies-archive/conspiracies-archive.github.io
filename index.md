@@ -12,6 +12,16 @@ This webpage provides pointers to the researchers and their work highlighted in 
 ## Featured Researchers
 *Experts identified in recent meta-analyses and handbook entries.*
 
+| [**Karen M. Douglas**](/people/karen-douglas/) | [**Peter Knight**](/people/peter-knight/) |
+| :--- | :--- |
+| Lead researcher on the **Conspiracy FX** project. Expert in the psychological correlates of belief. | Co-editor of the *Routledge Handbook* and director of the **EU Comparative Analysis** network. |
+| [View Profile →](/people/karen-douglas/) | [View Profile →](/people/peter-knight/) |
+
+---
+
+<!-- ## Featured Researchers
+*Experts identified in recent meta-analyses and handbook entries.*
+
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 200px; border: 1px solid #eee; padding: 10px; border-radius: 8px;">
@@ -32,7 +42,7 @@ This webpage provides pointers to the researchers and their work highlighted in 
     <br><a href="/people/alice-marwick/">View Profile →</a>
   </div-->
 
-</div>
+</div> -->
 
 ---
 
