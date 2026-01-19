@@ -12,9 +12,7 @@ title: Home
   li { margin-bottom: 10px; }
 </style>
 
-# Online Conspiracy Theory Research Archive
-*Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology.*
-
+## Overview
 This webpage provides pointers to the researchers and their work highlighted in the article, as well as resources that were not included in the article due to limited space.
 ---
 
@@ -51,7 +49,7 @@ This webpage provides pointers to the researchers and their work highlighted in 
     <br><a href="/people/alice-marwick/">View Profile →</a>
   </div-->
 
-</div> -->
+
 
 ---
 
