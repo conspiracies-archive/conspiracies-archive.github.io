@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+<p><strong>Status:</strong> {{ page.status }} | <strong>Funding:</strong> {{ page.funding }}</p>
+
+{% assign leader = site.people | where: "short_name", page.lead_researcher | first %}
+<p><strong>Lead Researcher:</strong> 
+  <a href="{{ leader.url }}">{{ leader.name }}</a>
+</p>
+
+{% if page.project_url %}
+  <p>
+    <strong>Official Website:</strong> 
+    <a href="{{ page.project_url }}" target="_blank">{{ page.project_url }}</a>
+  </p>
+{% endif %}
+
+<div class="content">
+  {{ content }}
+</div>
+
+<hr>
+
+<h3>Publications from this Project</h3>
+<ul>
+  {% for book in site.books %}
+    {% if book.group_slug == page.short_name %}
+      <li><a href="{{ book.url }}">{{ book.title }}</a> ({{ book.year }})</li>
+    {% endif %}
+  {% endfor %}
+</ul>

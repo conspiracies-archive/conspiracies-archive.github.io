@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>Published: {{ page.year }} by {{ page.publisher }}</p>
+
+<p>Authors: 
+  {% for author_slug in page.authors %}
+    {% assign author = site.people | where: "short_name", author_slug | first %}
+    {% if author %}
+      <a href="{{ author.url }}">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+    {% else %}
+      {{ author_slug }}{% unless forloop.last %}, {% endunless %}
+    {% endif %}
+  {% endfor %}
+</p>
+
+<div class="content">
+  {{ content }}
+</div>

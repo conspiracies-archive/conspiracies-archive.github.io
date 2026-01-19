@@ -1,0 +1,27 @@
+# Site Settings
+title: Online Conspiracy Theory Research Archive
+description: Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology
+theme: jekyll-theme-cayman # This is a standard, clean GitHub theme
+
+# Collections Configuration
+collections:
+  people:
+    output: true            # This creates a separate page for each researcher
+    permalink: /people/:path/
+  books:
+    output: true            # This creates a separate page for each book/paper
+    permalink: /books/:path/
+  groups:
+    output: true            # This creates a separate page for each project/org
+    permalink: /groups/:path/
+
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files you don't want on the live site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
