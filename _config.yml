@@ -1,7 +1,7 @@
 # Site Settings
 title: Online Conspiracy Theory Research Archive
 description: Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology
-theme: jekyll-theme-cayman # This is a standard, clean GitHub theme
+remote_theme: pages-themes/architect
 
 # Collections Configuration
 collections:
