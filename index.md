@@ -41,10 +41,10 @@ This webpage provides pointers to further resources that were not included in th
 ## 📖 Monographs
 
 | Title | Author(s) | Year |
-| _Contemporary conspiracy culture: Truth and knowledge in an era of epistemic instability_ | Harambam, J.| 2020 |
-| _A lot of people are saying: The new conspiracism and the assault on democracy_ | Rosenblum, N. L., Muirhead, R. | 2019 |
-| _The psychology of conspiracy theories_ | Prooijen, J. W | 2018 |
-| _Conspiracy culture: from Kennedy to the X Files_ | Knight, P. | 2013 |
+| [_The psychology of conspiracy theories (2nd Ed)_](https://www.routledge.com/The-Psychology-of-Conspiracy-Theories/vanProoijen/p/book/9781032868585) | Prooijen, J. W | 2026 |
+| [_Contemporary conspiracy culture: Truth and knowledge in an era of epistemic instability_](https://www.routledge.com/Contemporary-Conspiracy-Culture-Truth-and-Knowledge-in-an-Era-of-Epistemic-Instability/Harambam/p/book/9781032172668) | Harambam, J.| 2020 |
+| [_A lot of people are saying: The new conspiracism and the assault on democracy_](https://press.princeton.edu/books/hardcover/9780691188836/a-lot-of-people-are-saying?srsltid=AfmBOop-Yw1PQAlUR4-BH-DZYhHHdGHaSAcBAn1V2Ad32Sd54ZzOXxgz) | Rosenblum, N. L., Muirhead, R. | 2019 |
+| [_Conspiracy culture: from Kennedy to the X Files_](https://www.routledge.com/Conspiracy-Culture-From-Kennedy-to-The-X-Files/Knight-Knight/p/book/9780415189781) | Knight, P. | 2013 |
 
 ---
 
