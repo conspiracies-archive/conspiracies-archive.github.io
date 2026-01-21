@@ -2,8 +2,8 @@
 title: Online Conspiracy Theory Research Archive
 description: Supplementary resources for the same-titled article published in the Palgrave Encyclopedia of Cyberpsychology.
 remote_theme: pages-themes/minimal
-author: [Eni Mustafaraj]
-url: "https://github.com/enimust" # Replace with your GitHub URL
+author_name: [Eni Mustafaraj]
+url_author: "https://github.com/enimust" # Replace with your GitHub URL
 
 # Collections Configuration
 collections:
