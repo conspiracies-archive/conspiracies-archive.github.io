@@ -13,7 +13,8 @@ title: Home
 </style>
 
 ## Overview
-This webpage provides pointers further resources that were not included in the encyclopida article due to limited space.
+This webpage provides pointers to further resources that were not included in the encyclopida article due to limited space.
+
 ---
 
 <!-- ## Featured Researchers
@@ -35,15 +36,16 @@ This webpage provides pointers further resources that were not included in the e
 | **Conspiracy theories and the people who believe them** | Uscinski, J. E | 2019 |
 | **Conspiracy theories in American History: An encyclopedia** | Knight, P. | 2003 |
 
-## Monographs
+
+## 📖 Monographs
 
 | Title | Author(s) | Year |
-| ** Contemporary conspiracy culture: Truth and knowledge in an era of epistemic instability** | Harambam, J.| 2020 |
+| **Contemporary conspiracy culture: Truth and knowledge in an era of epistemic instability** | Harambam, J.| 2020 |
 | **A lot of people are saying: The new conspiracism and the assault on democracy** | Rosenblum, N. L., Muirhead, R. | 2019 |
 | **The psychology of conspiracy theories** | Prooijen, J. W | 2018 |
 | **Conspiracy culture: from Kennedy to the X Files** | Knight, P. | 2013 |
 
----
+
 
 <!-- ## 📚 Latest Literature (2023–2025)
 *Newest additions to the archive from the meta-analytic synthesis.*
@@ -56,7 +58,7 @@ This webpage provides pointers further resources that were not included in the e
 | **The conspiratorial mind: A meta-analytic review** | Bowes, S. M., et al. | 2023 |
 | **What is so special about conspiracy theories?** | Nera, K., & Schöpfer, C. | 2023 | -->
 
----
+
 
 ## 📂 Active Research Projects
 *Large-scale networks and funded initiatives.*
