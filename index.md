@@ -13,10 +13,10 @@ title: Home
 </style>
 
 ## Overview
-This webpage provides pointers to the researchers and their work highlighted in the article, as well as resources that were not included in the article due to limited space.
+This webpage provides pointers further resources that were not included in the encyclopida article due to limited space.
 ---
 
-## Featured Researchers
+<!-- ## Featured Researchers
 *Experts identified in recent meta-analyses and handbook entries.*
 
 | [**Karen M. Douglas**](/people/karen-douglas/) | [**Peter Knight**](/people/peter-knight/) |
@@ -24,36 +24,28 @@ This webpage provides pointers to the researchers and their work highlighted in 
 | Lead researcher on the **Conspiracy FX** project. Expert in the psychological correlates of belief. | Co-editor of the *Routledge Handbook* and director of the **EU Comparative Analysis** network. |
 | [View Profile →](/people/karen-douglas/) | [View Profile →](/people/peter-knight/) |
 
----
+--- -->
 
-<!-- ## Featured Researchers
-*Experts identified in recent meta-analyses and handbook entries.*
+## 📚 Edited Volumes
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+| Title | Editor(s) | Year |
+| :--- | :--- | :--- |
+| **Covid Conspiracy Theories in Global Perspective** | Butter M. & Knight, P. | 2023 |
+| **Routledge handbook of conspiracy theories** | Butter M. & Knight, P. | 2020 |
+| **Conspiracy theories and the people who believe them** | Uscinski, J. E | 2019 |
+| **Conspiracy theories in American History: An encyclopedia** | Knight, P. | 2003 |
 
-  <div style="flex: 1; min-width: 200px; border: 1px solid #eee; padding: 10px; border-radius: 8px;">
-    ### 👤 Karen M. Douglas
-    Lead researcher on the **Conspiracy FX** project. Expert in the psychological correlates of belief.
-    <br><a href="/people/karen-douglas/">View Profile →</a>
-  </div>
+## Monographs
 
-  <div style="flex: 1; min-width: 200px; border: 1px solid #eee; padding: 10px; border-radius: 8px;">
-    ### 👤 Peter Knight
-    Co-editor of the *Routledge Handbook* and director of the **EU Comparative Analysis** network.
-    <br><a href="/people/peter-knight/">View Profile →</a>
-  </div>
-
-  <!--div style="flex: 1; min-width: 200px; border: 1px solid #eee; padding: 10px; border-radius: 8px;">
-    ### 👤 Alice Marwick
-    Research director of Data and Society Institute.
-    <br><a href="/people/alice-marwick/">View Profile →</a>
-  </div-->
-
-
+| Title | Author(s) | Year |
+| ** Contemporary conspiracy culture: Truth and knowledge in an era of epistemic instability** | Harambam, J.| 2020 |
+| **A lot of people are saying: The new conspiracism and the assault on democracy** | Rosenblum, N. L., Muirhead, R. | 2019 |
+| **The psychology of conspiracy theories** | Prooijen, J. W | 2018 |
+| **Conspiracy culture: from Kennedy to the X Files** | Knight, P. | 2013 |
 
 ---
 
-## 📚 Latest Literature (2023–2025)
+<!-- ## 📚 Latest Literature (2023–2025)
 *Newest additions to the archive from the meta-analytic synthesis.*
 
 | Title | Author(s) | Year |
@@ -62,14 +54,14 @@ This webpage provides pointers to the researchers and their work highlighted in 
 | **Shapeshifters and Starseeds (TikTok Research)** | Marwick, A., et al. | 2025 |
 | **Participatory conspiracy culture on Reddit** | de Wildt, L., & Aupers, S. | 2024 |
 | **The conspiratorial mind: A meta-analytic review** | Bowes, S. M., et al. | 2023 |
-| **What is so special about conspiracy theories?** | Nera, K., & Schöpfer, C. | 2023 |
+| **What is so special about conspiracy theories?** | Nera, K., & Schöpfer, C. | 2023 | -->
 
 ---
 
 ## 📂 Active Research Projects
 *Large-scale networks and funded initiatives.*
 
-* **[Conspiracy FX (effects)](/groups/conspiracy-fx):** A five-year ERC-funded project (2022-2025) investigating the consequences of conspiracy theories.
+* **[Conspiracy FX (effects)](/groups/conspiracy-fx):** A five-year ERC-funded project (2022-2027) investigating the consequences of conspiracy theories.
 * **[Comparative Analysis in Europe](/groups/cost-action-europe):** An interdisciplinary network of 130 scholars exploring truth and knowledge instability.
 * **[Conspiracy Theories Book Series](/books/series):** Ongoing series edited by Butter and Knight for Routledge.
 
