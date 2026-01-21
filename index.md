@@ -31,10 +31,10 @@ This webpage provides pointers to further resources that were not included in th
 
 | Title | Editor(s) | Year |
 | :--- | :--- | :--- |
-| _Covid Conspiracy Theories in Global Perspective_ | Butter M. & Knight, P. | 2023 |
-| _Routledge handbook of conspiracy theories_ | Butter M. & Knight, P. | 2020 |
-| _Conspiracy theories and the people who believe them_ | Uscinski, J. E | 2019 |
-| _Conspiracy theories in American History: An encyclopedia_ | Knight, P. | 2003 |
+| [_Covid Conspiracy Theories in Global Perspective_](https://www.routledge.com/Covid-Conspiracy-Theories-in-Global-Perspective/Butter-Knight/p/book/9781032359434) | Butter M. & Knight, P. | 2023 |
+| [_Routledge handbook of conspiracy theories_](https://www.routledge.com/Routledge-Handbook-of-Conspiracy-Theories/Butter-Knight/p/book/9781032173986) | Butter M. & Knight, P. | 2020 |
+| [_Conspiracy theories and the people who believe them_](https://academic.oup.com/book/25369) | Uscinski, J. E | 2019 |
+| [_Conspiracy theories in American History: An encyclopedia_](https://www.bloomsbury.com/us/conspiracy-theories-in-american-history-9781576078129/) | Knight, P. | 2003 |
 
 ---
 
