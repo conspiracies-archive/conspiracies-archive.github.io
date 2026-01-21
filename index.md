@@ -13,7 +13,7 @@ title: Home
 </style>
 
 ## Overview
-This webpage provides pointers to further resources that were not included in the encyclopida article due to limited space.
+This webpage provides pointers to further resources that were not included in the encyclopedia article due to limited space.
 
 ---
 
