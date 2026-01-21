@@ -71,7 +71,7 @@ This webpage provides pointers to further resources that were not included in th
 ---
 
 ## How to Contribute
-If you have a book review or a research project that should be included in this handbook supplement, please submit a **Pull Request**. 
+If you have pointers to other books or research projects that should be included in this handbook supplement, please submit a **Pull Request**. 
 
 
 
