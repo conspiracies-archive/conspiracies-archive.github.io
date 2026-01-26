@@ -13,13 +13,13 @@ title: Home
 </style>
 
 ## Overview
-This webpage provides pointers to further resources that were not included in the encyclopedia article due to limited space.
+This webpage provides pointers to further resources that were not included in the entry for "Online Conspiracy Theories" in the Palgrave's Encyclopedia of Pyschology, due to limited space.
 
 ---
 
 ## Finding Highly-cited Articles over Time
 
-Research in conspiracy theories is only growing, so how does one stay up-to-date? An AI-powered tool offering features that are more useful than simple keyword search is [Semantic Scholar](https://www.semanticscholar.org/), which is also highly selective in indexing published research, when compared to Google Scholar. One of its features is the date range selection, which enables following the evolution of the research on conspiracy theories over decades. Once a decade is selected, the sorting and filtering features enable the identification of the most influential articles of the decade. 
+Research in conspiracy theories is only growing, so how does one stay up-to-date, while also finding the most relevant works? An AI-powered tool offering features that are more useful than simple keyword search is [Semantic Scholar](https://www.semanticscholar.org/). One of its features is the date range selection, which enables following the evolution of the research on conspiracy theories over decades. Once a decade is selected, the sorting and filtering features enable the identification of the most influential articles of the decade. 
 This feature was used to find the most influential articles by decade that were listed in one of the sections of the encyclopedia article.
 
 Concretely, when searching for [articles published before 2000](https://www.semanticscholar.org/search?year%5B0%5D=1938&year%5B1%5D=1999&q=%22conspiracy%20theory%22%20OR%20%22conspiracy%20theories%22&sort=influence), we find 315 articles within a 60-year period. This search reveals that Ted Goerzel's article, _Belief in Conspiracy Theories_, is the most influential article of that time period.
@@ -31,6 +31,8 @@ In the next decade, 2010-2019, [the number more than triples to almost 2000 arti
 Finally, in the [half decade 2020-2025](https://www.semanticscholar.org/search?year%5B0%5D=2020&year%5B1%5D=2025&q=%22conspiracy%20theory%22%20OR%20%22conspiracy%20theories%22&sort=influence), the total number of articles surpasses all what is written before (at the moment standing at 4500 articles), largely influenced by the research studying conspiracy theories around the Covid19 pandemic. 
 
 Similarly to finding most relevant articles in any date range, it is possible to identify the most prolific researchers (e.g., Karen M. Douglas, Joseph Uscinski, and Jan-Willem van Prooijen), or the most relevant articles within a chosen field of study, e.g., [computer science](https://www.semanticscholar.org/search?year%5B0%5D=1938&year%5B1%5D=2025&fos%5B0%5D=computer-science&q=%22conspiracy%20theory%22%20OR%20%22conspiracy%20theories%22&sort=influence). 
+
+---
 
 <!-- ## Featured Researchers
 *Experts identified in recent meta-analyses and handbook entries.*
@@ -85,8 +87,8 @@ Similarly to finding most relevant articles in any date range, it is possible to
 
 ---
 
-## How to Contribute
-If you have pointers to other books or research projects that should be included in this handbook supplement, please submit a **Pull Request**. 
+<!-- ## How to Contribute
+If you have pointers to other books or research projects that should be included in this handbook supplement, please submit a **Pull Request**.  -->
 
 
 
